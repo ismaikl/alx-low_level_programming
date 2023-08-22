@@ -8,7 +8,6 @@
  */
 
 void puts_half(char *str)
-
 {
 
 	int a, n, longi;
